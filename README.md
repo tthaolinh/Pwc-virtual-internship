@@ -11,3 +11,4 @@ Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 [PWC Switzerland - Call Center Trends.pdf](https://github.com/tthaolinh/Pwc-virtual-internship/files/10367324/PWC.Switzerland.-.Call.Center.Trends.pdf)
+![PWC Switzerland - Call Center Trends-1](https://user-images.githubusercontent.com/112348820/211173203-fc2faa1a-8b5d-4817-a8d5-9248b6e80e0a.jpg)
