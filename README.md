@@ -9,4 +9,5 @@ Overall calls answered/abandoned
 Calls by time
 Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
 [PWC Switzerland - Call Center Trends.pdf](https://github.com/tthaolinh/Pwc-virtual-internship/files/10367324/PWC.Switzerland.-.Call.Center.Trends.pdf)
