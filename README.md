@@ -12,6 +12,8 @@ Agent’s performance quadrant -> average handle time (talk duration) vs calls a
 
 [PWC Switzerland - Call Center Trends.pdf](https://github.com/tthaolinh/Pwc-virtual-internship/files/10367324/PWC.Switzerland.-.Call.Center.Trends.pdf)
 ![PWC Switzerland - Call Center Trends-1](https://user-images.githubusercontent.com/112348820/211173203-fc2faa1a-8b5d-4817-a8d5-9248b6e80e0a.jpg)
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/112348820/211173337-68c7388c-8209-4826-a5fe-680d6fb7fe13.png">
+
 
 # Task 2: Customer Retention
 Your colleague, the engagement partner, asks you to do the following tasks:
