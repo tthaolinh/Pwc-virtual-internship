@@ -19,7 +19,7 @@ Define proper KPIs
 Create a dashboard for the retention manager reflecting the KPIs
 Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
-[PWC Switzerland - C[PWC Switzerland - Customer Retention Analysis.pdf](https://github.com/tthaolinh/Pwc-virtual-internship/files/10610294/PWC.Switzerland.-.Customer.Retention.Analysis.pdf)
+[PWC Switzerland - Customer Retention Analysis.pdf](https://github.com/tthaolinh/Pwc-virtual-internship/files/10610294/PWC.Switzerland.-.Customer.Retention.Analysis.pdf)
 ![PWC Switzerland - Customer Retention Analysis-1](https://user-images.githubusercontent.com/112348820/216803964-6bd5a29a-40d5-436b-af09-a9a2419ec7cc.png)
 ![PWC Switzerland - Customer Retention Analysis-2](https://user-images.githubusercontent.com/112348820/216803966-70073732-edbe-45e6-9a78-431740e544ee.png)
 ![PWC Switzerland - Customer Retention Analysis-3](https://user-images.githubusercontent.com/112348820/216803970-c76ff7d9-8432-4585-9ecd-7a36713956b8.png)
