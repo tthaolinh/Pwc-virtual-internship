@@ -28,9 +28,10 @@ Write a short email to him (the engagement partner) explaining your findings, an
 # Task 3: Diversity and Inclusion
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 Calculating the following measures could help to define proper KPIs:
-# of men
-# of women
-# of leavers
+
+#of men
+#of women
+#of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
@@ -40,4 +41,5 @@ Average performance rating: men
 Average Performance rating: women
 
 Reference:
+
 Forage. (n.d.). Retrieved February 5, 2023, from https://www.theforage.com/virtual-internships/a87GpgE6tiku7q3gu?ref=nCRySqfnHMrbP86pP 
