@@ -28,8 +28,8 @@ Write a short email to him (the engagement partner) explaining your findings, an
 # Task 3: Diversity and Inclusion
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 Calculating the following measures could help to define proper KPIs:
+<img width="1214" alt="image" src="https://github.com/tthaolinh/Pwc-virtual-internship/assets/112348820/d5fc85ec-e19e-4db1-ab34-4d2a2e8cbce5">
 
-C:\Users\linht\AppData\Local\Temp\Temp1_PWC Switzerland - Diversity and Inclusion (1).zip\PWC Switzerland - Diversity and Inclusion (1)-1.png
 
 
 #of men
